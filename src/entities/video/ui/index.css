@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .video {
+    @apply bg-gray-300 w-full aspect-video rounded-2xl;
+  }
+}
