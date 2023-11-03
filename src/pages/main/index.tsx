@@ -13,7 +13,7 @@ const MainPage = () => {
           views={video.views}
           added_time={video.added_time}
         >
-          salam
+          video
         </Video>
       ))}
     </main>
